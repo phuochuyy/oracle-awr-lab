@@ -1,0 +1,9 @@
+# AWR Reports (large HTML)
+*.html.bak
+# Temp files
+*.tmp
+*.log
+# Wallet
+*wallet*
+# Mac
+.DS_Store
